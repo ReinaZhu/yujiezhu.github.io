@@ -54,9 +54,6 @@
       items:
         - Transfer Learning
         - Multi-task learning
-    - title: Build a suitable training set
-      items:
-        - Comprehensive and low in quantity
 
 - title: Volunteering
   type: time_table
@@ -67,7 +64,6 @@
        description:
          - Taught 50 local junior high students Chinese culture and mathematics in Japan.
          - Hold the English workshop for elementary school students to enhance their English proficiency through multiple interactions.
-
     - title: Environmental Protection Volunteer
       institution: World Without Borders, Hexi Corridor, China
       year: 2022
