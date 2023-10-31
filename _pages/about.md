@@ -21,7 +21,8 @@ I earned my B.S. in Applied Mathematics from the Southern University of Science 
 
 ## Information:
 
-address: >
+
+# address:
     <p>343 Gold Street</p>
     <p>Brooklyn, NY, 11201</p>
     <p>yujie.z@nyu.edu</p>
