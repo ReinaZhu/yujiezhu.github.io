@@ -5,16 +5,14 @@
       institution: New York University, New York City, U.S.
       year: 2022 - 2024
       description:
-      - title: Coursework
-        contents: 
-          Data Structure and Algorithm; Operation System; Network Security.
+      - Coursework
+        Data Structure and Algorithm; Operation System; Network Security.
     - title: Bachelor of Science in Mathematics and Applied Mathematics
       institution: Southern University of Science and Technology, Shenzhen, China
       year: 2017 - 2022
       description:
-      - title: Coursework
-        contents: 
-          Machine Learning; Mathematical Modeling; Discrete Mathematics.
+      - Coursework
+      Machine Learning; Mathematical Modeling; Discrete Mathematics.
 
 - title: Experience
   type: time_table
