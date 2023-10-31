@@ -46,16 +46,29 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Image processing and analysis
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Medical image processing
+        - Autopilot
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Transfer Learning
+        - Multi-task learning
+    - title: Build a suitable training set
 
-- title: Other Interests
-  type: list
+- title: Volunteering
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+     - title: International volunteer teacher  
+      institution: Council on International Educational Exchange, Yamaguchi, Japan
+      year: 2019
+      description:
+        - Taught 50 local junior high students Chinese culture and mathematics in Japan.
+        - Hold the English workshop for elementary school students to enhance their English proficiency through multiple interactions.
+
+    - title: Environmental Protection Volunteer
+      institution: World Without Borders, Hexi Corridor, China
+      year: 2022
+      description:
+        - Strawed checkerboard barriers for sand control in Dunhuang, China.
+        - Picked up the trash at Qinghai Lake to protect the environment.
