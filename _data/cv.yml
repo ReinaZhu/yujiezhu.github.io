@@ -55,6 +55,7 @@
         - Transfer Learning
         - Multi-task learning
     - title: Build a suitable training set
+      items:
 
 - title: Volunteering
   type: time_table
