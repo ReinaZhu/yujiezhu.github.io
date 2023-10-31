@@ -20,7 +20,12 @@ I am a graduate student in Computer Engineering at New York University. My resea
 I earned my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, and was honored as an outstanding graduate of the Department of Mathematics.
 
 
-## address:
+
+
+
+
+
+### address:
 
   343 Gold Street
 
