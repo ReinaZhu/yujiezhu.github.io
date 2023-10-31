@@ -22,7 +22,7 @@ I earned my B.S. in Applied Mathematics from the Southern University of Science 
 ## Information:
 
 
-# address:
+### address:
 
   343 Gold Street
 
