@@ -5,22 +5,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Computer Engineering
+      institution: New York University, New York City, U.S.
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - title: Coursework
+        contents: Data Structure and Algorithm; Operation System; Network Security.
+    - title: Bachelor of Science in Mathematics and Applied Mathematics
+      institution: Southern University of Science and Technology, Shenzhen, China
+      year: 2017 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - title: Coursework
+        contents: Machine Learning; Mathematical Modeling; Discrete Mathematics.
 
 - title: Experience
   type: time_table
@@ -65,14 +61,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Graduates of the Mathematics Department
+    - year: 2020
       items: 
-        - Max Planck Medal
-
+        - Merit Student Scholarship for Exceptional Performance
+     - year: 2017
+      items: 
+        - SUSTech Scholarship for Freshmen
+        
 - title: Academic Interests
   type: nested_list
   contents:
