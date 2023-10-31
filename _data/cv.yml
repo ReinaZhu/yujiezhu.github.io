@@ -58,17 +58,16 @@
 - title: Volunteering
   type: time_table
   contents:
-    - title: International volunteer teacher  
-       institution: Council on International Educational Exchange, Yamaguchi, Japan
-       year: 2019
-       description:
-         - Taught 50 local junior high students Chinese culture and mathematics in Japan.
-         - Hold the English workshop for elementary school students to enhance their English proficiency through multiple interactions.
+    - title: International volunteer teacher
+      institution: Council on International Educational Exchange, Yamaguchi, Japan
+      year: 2019
+      description:
+        - Taught 50 local junior high students Chinese culture and mathematics in Japan.
+        - Hold the English workshop for elementary school students to enhance their English proficiency through multiple interactions.
     - title: Environmental Protection Volunteer
       institution: World Without Borders, Hexi Corridor, China
       year: 2022
       description:
         - Strawed checkerboard barriers for sand control in Dunhuang, China.
         - Picked up the trash at Qinghai Lake to protect the environment.
-
 
