@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>343 Gold Street</p>
-    <p>Brooklyn, NY, 11201</p>
-    <p>yujie.z@nyu.edu</p>
 
 Education: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,7 +16,16 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a graduate student in Computer Engineering at New York University. My research focuses on deep learning and computer vision.
+
 I earned my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, and was honored as an outstanding graduate of the Department of Mathematics.
+
+## Information:
+
+address: >
+    <p>343 Gold Street</p>
+    <p>Brooklyn, NY, 11201</p>
+    <p>yujie.z@nyu.edu</p>
+
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
