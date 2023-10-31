@@ -1,3 +1,9 @@
+- title: Yujie Zhu
+  type: time_table
+  contents:
+    yujie.z@nyu.edu
+
+
 - title: Education
   type: time_table
   contents:
@@ -5,14 +11,12 @@
       institution: New York University, New York City, U.S.
       year: 2022 - 2024
       description:
-      - Coursework
-        Data Structure and Algorithm; Operation System; Network Security.
+      - Data Structure and Algorithm; Operation System; Network Security.
     - title: Bachelor of Science in Mathematics and Applied Mathematics
       institution: Southern University of Science and Technology, Shenzhen, China
       year: 2017 - 2022
       description:
-      - Coursework
-      Machine Learning; Mathematical Modeling; Discrete Mathematics.
+      - Machine Learning; Mathematical Modeling; Discrete Mathematics.
 
 - title: Experience
   type: time_table
