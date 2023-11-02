@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paper code
+title: Paper Code
 description: Self-supervised Learning for Small Shot COVID-19 Classification
 img: 
 importance: 1
