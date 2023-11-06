@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in Computer Engineering at New York University. My research interest focuses on Deep Learning and Computer Vision. Actually, I'm interested in various models of deep learning since models and algorithms are always being updated.
+I am a graduate student in Computer Engineering at New York University. My research interest focuses on Deep Learning and Computer Vision. Actually, I'm interested in various models of deep learning and machine learning since models and algorithms are always being updated.
 
 I earned my B.S. in Applied Mathematics from the Southern University of Science and Technology in 2022, and was honored as an outstanding graduate of the Department of Mathematics.
 
