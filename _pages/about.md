@@ -22,6 +22,9 @@ I am deeply fascinated by everything related to image processing. I have experie
 <br/>
 <br/>
 ### Information:
-  343 Gold Street<br/>
-  Brooklyn, NY, 11201<br/>
-  yujie.z@nyu.edu<br/>
+  343 Gold Street
+  <br/>
+  Brooklyn, NY, 11201
+  <br/>
+  yujie.z@nyu.edu
+  <br/>
