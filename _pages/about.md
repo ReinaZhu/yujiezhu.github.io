@@ -1,4 +1,4 @@
----
+--trace
 layout: about
 title: about
 permalink: /
