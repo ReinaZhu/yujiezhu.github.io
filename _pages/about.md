@@ -22,24 +22,6 @@ I earned my B.S. in Applied Mathematics from the Southern University of Science 
 I am deeply fascinated by everything related to image processing. I have experience in modeling through TensorFlow, focusing on transfer learning, self-supervised learning, and multi-task learning. In my published paper, my research was mainly focused on enhancing the test set accuracy rates of CNN classification models, specifically under a small shot of COVID images for the training set. This experience fueled my interest in medical image analysis. During my senior year's machine learning course, we leveraged YOLO and Fast R-CNN models to detect and classify road signs. Initially, I believed that model performance was predominantly a function of algorithmic improvements. However, I soon realized that how to select the appropriate training set pictures also greatly affected the performance of the model. This insight broadened my perspective, leading me to acknowledge that my understanding of deep learning had been somewhat myopic.
 
 
-def extended_euclidean(a, b):
-    if a == 0:
-        return b, 0, 1
-    else:
-        gcd, x, y = extended_euclidean(b % a, a)
-        return gcd, y - (b // a) * x, x
-        
-        
-p = int("F7E75FDC469067FFDC4E847C51F452DF", 16)
-q = int("E85CED54AF57E53E092113E62F436F4F", 16)
-phi = (p - 1) * (q - 1)
-e = int("0D88C3", 16)
-phi = (p - 1) * (q - 1)
-gcd, x, y = extended_euclidean(e, phi)
-d = x % phi
-print("d is", hex(d))
-
-
 
 <br/>
 <br/>
