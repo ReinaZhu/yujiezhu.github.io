@@ -9,9 +9,9 @@
       institution: New York University, New York City, U.S.
       year: 2022-2024
       description:
-        - GPA 3.89
+        - GPA 3.90
         - Operation System
-        - Network Security
+        - Decision Models and Analytics
         - Data Structure and Algorithm
     - title: Bachelor of Science in Applied Mathematics
       institution: Southern University of Science and Technology, Shenzhen, China
@@ -22,19 +22,12 @@
         - Discrete Mathematics
         - Probability Theory and Mathematical Statistics
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Project Assistant
-      institution: Institute of Computing Technology, Remote
-      year: 2020-2021
-      description:
-        - Developed four COVID-19 CT image CNN classification models based on transfer learning and self-supervised learning with TensorFlow to improve the accuracy of the test set by nearly 30%.
-        - Applied a residual structure and multi-task learning with Python to enhance image classification performance, the highest accuracy of the training set reaches 95.31%.
-
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Presidential Fellowship
     - year: 2022
       items: 
         - Outstanding Graduates of Mathematics Department
@@ -44,20 +37,6 @@
     - year: 2017
       items: 
         - SUSTech Scholarship for Freshmen, 2017
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Image processing and analysis
-      items: 
-        - Medical image processing
-        - Autopilot
-    - title: Deep Learning
-      items:
-        - Transfer Learning
-        - Multi-task learning
-        - Various models of deep learning (Models and Algorithms are always being updated).
-    - title: Build a suitable training set
 
 - title: Volunteering
   type: time_table
